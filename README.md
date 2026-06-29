@@ -1,4 +1,3 @@
-# web_project_portfolio_es
 # Portafolio personal — Laura Alejandra González
 
 Este proyecto es un portafolio web personal desarrollado como parte del Sprint 4 del bootcamp de desarrollo web. El sitio presenta mi perfil profesional, habilidades, herramientas, proyectos destacados y formas de contacto.
@@ -25,4 +24,11 @@ Este proyecto es un portafolio web personal desarrollado como parte del Sprint 4
 
 ## Enlace al proyecto
 
-https://lauraespejoo.github.io/web_project_portfolio_es/
+👉 https://lauraespejoo.github.io/web_project_portfolio_es/
+
+## Autor
+
+Laura Alejandra González
+
+GitHub:
+https://github.com/lauraespejoo
